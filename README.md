@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PericoCouture
+- 👋 Hi, I’m @dotki0
 - 👀 I’m interested in networks and development
 - 🌱 I’m currently learning network
-- 📫 How to reach me : contact@pericocouture.fr
+- 📫 How to reach me : dotkio@pm.me
