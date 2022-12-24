@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dotki0
+- 👋 Hi, I’m @dotkio
 - 👀 I’m interested in networks and development
 - 🌱 I’m currently learning network
 - 📫 How to reach me : dotkio@pm.me
